@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="108" viewBox="0 0 120 108">
+    <defs>
+        <linearGradient id="prefix__b" x1="0%" x2="12.658%" y1="3.839%" y2="153.478%">
+            <stop offset="0%" stop-color="#F5A42C" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#FDBE56"/>
+        </linearGradient>
+        <path id="prefix__a" d="M0 0H132V122H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-.573 .19)">
+        <mask id="prefix__c" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="url(#prefix__b)" fill-rule="nonzero" d="M112.43-10c5.218 10.776 8.143 22.869 8.143 35.645 0 45.23-36.666 81.895-81.895 81.895-18.677 0-35.894-6.252-49.672-16.777-.108-7.271 1.211-14.535 3.852-21.572 11.517 12.115 27.786 19.666 45.82 19.666 34.91 0 63.212-28.301 63.212-63.212 0-9.966-2.306-19.394-6.414-27.778l.912-.379c5.747-2.396 10.957-4.736 15.347-7.107l.695-.381z" mask="url(#prefix__c)"/>
+    </g>
+</svg>

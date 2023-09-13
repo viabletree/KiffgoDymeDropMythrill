@@ -1,0 +1,69 @@
+@use "../../master.scss";
+
+.main-header {
+  width: 100%;
+  height: 80px;
+  background: master.$theme3-color;
+  display: flex;
+  justify-content: flex-end;
+  .mobile {
+    display: none;
+    align-items: center;
+    gap: 15px;
+    padding: 10px 15px 10px 15px;
+    width: 100%;
+    justify-content: space-between;
+
+    svg {
+      margin-bottom: 5px;
+    }
+    @media (max-width: 1000px) {
+      display: flex;
+    }
+  }
+  .right-side {
+    margin-right: 21px;
+    @media (max-width: 1000px) {
+      display: none;
+    }
+  }
+  .profile {
+    background: master.$dark-color;
+    border-radius: 12px;
+    align-items: flex-start;
+    height: 50px;
+    padding: 5px 10px 5px 10px;
+
+    svg {
+      margin-top: 10px;
+    }
+    @media (max-width: 1000px) {
+      display: none;
+    }
+  }
+
+  @media (max-width: 1000px) {
+    justify-content: space-between;
+  }
+}
+
+.side-drawer {
+  .ant-drawer-header {
+    background-color: master.$dark-color;
+    .ant-drawer-close {
+      color: #fff;
+    }
+    .ant-drawer-title {
+      text-align: left;
+    }
+  }
+  .ant-drawer-body {
+    background-color: master.$dark-color;
+  }
+}
+
+.line {
+  margin: 0 auto;
+  border-color: #ffffff;
+  opacity: 0.1;
+}

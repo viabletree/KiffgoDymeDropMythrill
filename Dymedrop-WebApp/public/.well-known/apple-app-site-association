@@ -1,0 +1,11 @@
+{
+  "appclips": {
+    "apps": ["N3LF3W25F8.com.dymedropFanApplication.app.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      { "appID": "N3LF3W25F8.com.dymedropFanApplication.app", "paths": ["*"] }
+    ]
+  }
+}

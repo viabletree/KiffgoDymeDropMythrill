@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="27" viewBox="0 0 47 27">
+  <g id="Group_805" data-name="Group 805" transform="translate(-936 -522)">
+    <g id="Rectangle_349" data-name="Rectangle 349" transform="translate(936 522)" fill="#343434" stroke="rgba(13,13,13,0.26)" stroke-width="1">
+      <rect width="47" height="27" rx="9" stroke="none"/>
+      <rect x="0.5" y="0.5" width="46" height="26" rx="8.5" fill="none"/>
+    </g>
+    <g id="Group_804" data-name="Group 804" transform="translate(245.25 16.75)">
+      <g id="Group_801" data-name="Group 801" transform="translate(700 511)">
+        <path id="Path_701" data-name="Path 701" d="M715.5,526.5H700V511h15.5Zm-14.531-.969h13.563V511.969H700.969Z" transform="translate(-700 -511)" fill="#fff"/>
+      </g>
+      <g id="Group_802" data-name="Group 802" transform="translate(709.688 511.484)">
+        <rect id="Rectangle_350" data-name="Rectangle 350" width="1" height="15" transform="translate(0.313 -0.484)" fill="#fff"/>
+      </g>
+      <g id="Group_803" data-name="Group 803" transform="translate(704.844 511.484)">
+        <rect id="Rectangle_351" data-name="Rectangle 351" width="1" height="15" transform="translate(0.156 -0.484)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Polygon_11" data-name="Polygon 11" d="M4,0,8,7H0Z" transform="translate(974 540) rotate(180)" fill="#fff"/>
+  </g>
+</svg>

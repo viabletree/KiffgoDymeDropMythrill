@@ -1,0 +1,289 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+button:focus {
+  outline: none;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.comparisonTableWrapperStyle {
+  border-collapse: separate;
+  border-spacing: 12px;
+}
+
+.comparisonTableWrapperStyle th,
+.comparisonTableWrapperStyle td {
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.comparisonTableWrapperStyle tr td:first-child {
+  border: solid 1px rgb(242 80 255 / 36%);
+}
+
+.comparisonTableWrapperStyle tr td:last-child {
+  border: solid 1px rgb(0 0 0 / 17%);
+}
+
+.comparisonTableWrapperStyle tr td:nth-child(even) {
+  border: solid 1px rgb(100 222 180 / 50%);
+}
+
+.tableWrapperStyle,
+.tableWrapperStyle th,
+.tableWrapperStyle td {
+  background-color: rgba(239, 239, 239, 0.6);
+  border: 12px solid white;
+  border-collapse: collapse;
+}
+
+.tableWrapperStyle thead,
+.comparisonTableWrapperStyle thead {
+  display: contents;
+}
+
+.tableWrapperStyle th,
+.tableWrapperStyle td {
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.tableWrapperStyle tbody tr th:nth-child(even) {
+  background-color: rgba(219, 219, 219, 0.9);
+}
+
+.tostifyCustomClass {
+  border-radius: 5px !important;
+  line-height: 24px;
+}
+
+@media screen and (max-width: 1200px) {
+  .tableWrapperStyle {
+    border: 0;
+  }
+
+  .tableWrapperStyle thead,
+  .comparisonTableWrapperStyle thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    display: none !important;
+  }
+
+  .tableWrapperStyle tr,
+  .comparisonTableWrapperStyle tr {
+    display: block;
+  }
+
+  .tableWrapperStyle tr td:first-child,
+  .comparisonTableWrapperStyle tr td:first-child {
+    text-align: center !important;
+    font-size: 1.25em !important;
+    font-weight: 700 !important;
+  }
+
+  .tableWrapperStyle td {
+    padding: 20px !important;
+    display: block;
+    font-size: 1em !important;
+    text-align: right;
+  }
+
+  .comparisonTableWrapperStyle td {
+    padding: 20px !important;
+    display: block;
+    font-size: 1em !important;
+    text-align: right;
+    margin-bottom: 12px;
+  }
+
+  .tableWrapperStyle td::before,
+  .comparisonTableWrapperStyle td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .tableWrapperStyle td:last-child,
+  .comparisonTableWrapperStyle td:last-child {
+    border-bottom: 0;
+  }
+}
+
+.teamInfoWrapper div:last-child {
+  margin: auto;
+}
+
+/* .tostifyCustomClass:hover {
+  opacity: 1;
+} */
+
+@media (min-width: 1282px) {
+  .tableWrapperStyle td:first-child {
+    width: 300px !important;
+  }
+}
+
+@media (min-width: 1201px) {
+  .comparisonTableWrapperStyle tr td:first-child {
+    width: 700px;
+  }
+  .comparisonTableWrapperStyle tr td:nth-child(even),
+  .comparisonTableWrapperStyle tr td:last-child {
+    width: 600px;
+  }
+  .tableWrapperStyle td:first-child {
+    width: 220px;
+  }
+}

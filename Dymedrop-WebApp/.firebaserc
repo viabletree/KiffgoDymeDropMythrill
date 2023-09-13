@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "dymedrop-webapp",
+    "staging": "dymedrop-staging"
+  },
+  "targets": {}
+}

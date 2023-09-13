@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="63px" viewBox="0 0 32 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4FFFC5" offset="0%"></stop>
+            <stop stop-color="#5EDEA8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26">
+            <g id="icon">
+                <g id="Group">
+                    <ellipse id="Oval-4" stroke="#1D1D1D" stroke-width="2" fill-opacity="0.412986866" fill="#0D0D0D" cx="16.0520874" cy="57" rx="5.89877874" ry="4.63562397"></ellipse>
+                    <path d="M15.1154741,57.4532389 L1.70616095,20.9430873 C-1.204204,13.0189033 2.86029943,4.23576595 10.7844835,1.325401 C12.4722554,0.705522383 14.2561599,0.388289195 16.0541654,0.388289195 L16.0541654,0.388289195 C24.4959019,0.388289195 31.3392816,7.23166882 31.3392816,15.6734054 C31.3392816,17.4714109 31.0220484,19.2553154 30.4021698,20.9430873 L16.9928566,57.4532389 C16.8024514,57.9716637 16.2278312,58.2375762 15.7094063,58.047171 C15.4338499,57.9459657 15.2166795,57.7287953 15.1154741,57.4532389 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+            <text id="26" font-family="Futura-Medium, Futura" font-size="16" font-weight="400" fill="#242424">
+                <tspan x="6.67708738" y="21">26</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

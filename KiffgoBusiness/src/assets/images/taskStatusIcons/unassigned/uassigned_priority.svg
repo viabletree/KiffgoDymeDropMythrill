@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.337" height="23.523" viewBox="0 0 18.337 23.523">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffce00"/>
+      <stop offset="1" stop-color="#efd773"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_962" data-name="Group 962" transform="translate(-7875 -14257)">
+    <g id="Icon_-_Task_status_-_Unassigned" data-name="Icon - Task status - Unassigned" transform="translate(7875 14257)">
+      <path id="Path_64" data-name="Path 64" d="M1800.357,4.6a9.65,9.65,0,0,0-9.169,9.623,11.108,11.108,0,0,0,1.2,4.443c.021.043.046.086.072.128,5.542,9.329,7.2,9.329,7.9,9.329,1.1,0,2.292-.813,5.114-4.956,1.472-2.16,2.735-4.282,2.786-4.373.025-.043.051-.086.071-.128a11.108,11.108,0,0,0,1.2-4.443A9.65,9.65,0,0,0,1800.357,4.6Z" transform="translate(-1791.188 -4.6)" fill="#909090" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_960" data-name="Group 960" transform="translate(7882.881 14261.435)">
+      <path id="Path_774" data-name="Path 774" d="M126.89,273.922a1.161,1.161,0,1,0,1.161,1.161A1.161,1.161,0,0,0,126.89,273.922Z" transform="translate(-125.602 -262.7)" fill="url(#linear-gradient)"/>
+      <path id="Path_775" data-name="Path 775" d="M126.585,245.712c.426,0,.8-.521.842-1.159l.444-7.55a1.084,1.084,0,0,0-1.093-1.159h-.387A1.084,1.084,0,0,0,125.3,237l.444,7.55C125.781,245.19,126.16,245.712,126.585,245.712Z" transform="translate(-125.297 -235.844)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

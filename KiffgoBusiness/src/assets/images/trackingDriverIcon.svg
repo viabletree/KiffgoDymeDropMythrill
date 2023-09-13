@@ -1,0 +1,13 @@
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g fill="none" fill-rule="evenodd" stroke-width="1" stroke="black" stroke-opacity="0.3">
+    <circle cx="50" cy="50" r="10"  fill="#5fabf7" stroke="#5fabf7"  fill-opacity="0.3">
+      <animate attributeName="r" begin="0s" dur="1s" values="10;40" keyTimes="0;1" keySplines="0.1,0.2,0.3,1" calcMode="spline" repeatCount="indefinite"></animate>
+      <animate attributeName="stroke-opacity" begin="0s" dur="1s" values="0;.3;.3;0" repeatCount="indefinite"></animate>
+    </circle>
+    <circle cx="50" cy="50" r="10"  fill="#5fabf7" stroke="#5fabf7" fill-opacity="0.3">
+      <animate attributeName="r" begin="0s" dur="1s" values="40;10" keyTimes="0;1" keySplines="0.1,0.2,0.3,1" calcMode="spline" repeatCount="indefinite"></animate>
+      <animate attributeName="stroke-opacity" begin="0s" dur="1s" values="0;.3;.3;0" repeatCount="indefinite"></animate>
+    </circle>
+ <circle cx="50" cy="50" r="20" fill="#61acf7" stroke="#61acf7"/>
+  </g>
+</svg>

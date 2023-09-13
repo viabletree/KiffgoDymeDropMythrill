@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="45px" viewBox="0 0 49 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>beta</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="booking_step1-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-977.000000, -508.000000)">
+        <g id="beta" transform="translate(977.000000, 508.000000)">
+            <polygon id="Rectangle-5" fill="#FFA53C" points="0.5 0 24.5 0 48.3932833 20.5214778 48.3932833 45.0429557"></polygon>
+            <text id="Beta" transform="translate(31.500000, 17.294000) rotate(44.000000) translate(-31.500000, -17.294000) " font-family="Nunito, sans-serif" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="17.5" y="21.794">Beta</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,810 @@
+.okay-btn {
+  background-color: #1bae74;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.okay-btn:hover {
+  background-color: #40c28b !important;
+}
+/* html {
+  scroll-behavior: smooth;
+} */
+
+/* map icon */
+
+.infoBox {
+  overflow: visible !important;
+  margin-top: -49px !important;
+  margin-left: -13px;
+}
+.infoBox img {
+  display: none;
+}
+/* date picker */
+.m-input-moment {
+  padding: 10px 10px;
+  margin-top: 10px;
+}
+.m-calendar td {
+  padding: 7px 0;
+}
+.m-input-moment .btn-save {
+  margin-top: 0;
+  padding: 8px 0;
+}
+.m-input-moment .options button {
+  padding: 6px 0;
+}
+
+/* map drap n drop popup */
+body .gm-style-iw-d {
+  overflow: auto !important;
+}
+.gm-style-iw.gm-style-iw-c {
+  padding: 0 !important;
+}
+
+body .gm-style .gm-style-iw-t::after {
+  background: #f6e754 !important;
+}
+
+/* dashboard side bar active class */
+.active_menu div {
+  background-color: transparent;
+  color: #57dfa7;
+}
+
+/* select::-ms-expand {	display: none; }
+select{
+    -webkit-appearance: none;
+    appearance: none;
+} */
+
+/* .custom-select-arrows {
+  background-image: url('../images/select-arrow.png') !important;
+  background-repeat: no-repeat !important;
+  background-position: 95% 60% !important;
+} */
+
+/* show specfic stop */
+body .showSideBarSec {
+  right: 0 !important;
+  transition: 0.3s ease-in-out all;
+}
+
+.mapWrap > div > div > div {
+  background: #282828 !important;
+}
+
+.customerTrackingMap .gm-ui-hover-effect,
+.customerTrackingMap .gm-style .gm-style-iw-t::after,
+.mapWrap .gm-ui-hover-effect,
+.mapWrap .gm-style .gm-style-iw-t::after {
+  display: none !important;
+}
+
+.customerTrackingMap .gm-style .gm-style-iw-c,
+.mapWrap .gm-style .gm-style-iw-c {
+  border-radius: 0;
+}
+
+.customerTrackingMap .gm-style .gm-style-iw-c,
+.mapWrap .gm-style .gm-style-iw-c {
+  background: transparent;
+  box-shadow: none;
+}
+/* dm map controls postion */
+/* .gm-style-mtc:nth-child(1) {
+  margin-left: 125px;
+}
+.gm-style-mtc {
+  margin-top: 40px;
+} */
+
+/* 
+  visibleTaskIcon  dm filter reason behind to 
+  style this here did not find  child in aphrite
+*/
+.dropdown-toggle .btn .btn-success {
+  background-color: transparent;
+}
+.dropdown-menu.show {
+  line-height: 2.2em;
+  box-shadow: 1px 1px 7px 1px #e0e0e0;
+  border-color: #e0e0e0;
+  min-width: 250px;
+}
+
+.selectedTaskWrap .visibleTaskIcon {
+  height: 17px;
+}
+.selectedTaskWrap .visibleTaskIcon:nth-child(1) {
+  order: -5;
+  margin-right: -12px;
+}
+.selectedTaskWrap .visibleTaskIcon:nth-child(3) {
+  order: -4;
+  margin-right: -12px;
+}
+.selectedTaskWrap .visibleTaskIcon:nth-child(5) {
+  order: -3;
+  margin-right: -12px;
+}
+.selectedTaskWrap .visibleTaskIcon:nth-child(7) {
+  order: -2;
+  margin-right: -12px;
+}
+.selectedTaskWrap .visibleTaskIcon:nth-child(9) {
+  order: -1;
+  margin-right: -18px;
+}
+
+body .selectedTaskWrap .visibleTaskTitle:nth-child(2) {
+  margin-left: 27px !important;
+}
+
+/* 
+
+DM TaskBar Scroll
+
+*/
+
+body .rcs-custom-scroll .rcs-inner-handle {
+  background-color: #5edea8 !important;
+  /* dm  map*/
+}
+.gm-control-active.gm-fullscreen-control {
+  display: none !important;
+}
+
+body .gmnoprint.gm-bundled-control.gm-bundled-control-on-bottom {
+  bottom: auto !important;
+  left: 0;
+  top: 38px;
+}
+
+.gm-style-mtc div {
+  height: 33px !important;
+}
+.gm-control-active {
+  width: 28px !important;
+  height: 28px !important;
+}
+body
+  .gmnoprint.gm-bundled-control.gm-bundled-control-on-bottom
+  .gmnoprint:nth-child(1)
+  > div {
+  width: 28px !important;
+  height: 56px !important;
+  margin-top: -33px !important;
+}
+
+.gmnoprint.gm-bundled-control.gm-bundled-control-on-bottom
+  .gmnoprint:nth-child(1)
+  div {
+  width: 18px !important;
+}
+.gm-svpc {
+  width: 30px !important;
+  height: 30px !important;
+}
+.gmnoprint .gm-style-mtc div {
+  font-size: 12px !important;
+  height: 30px !important;
+}
+.gm-control-active img {
+  width: 11px !important;
+  height: 11px !important;
+}
+
+.gm-svpc img {
+  width: 22px !important;
+  height: 22px !important;
+}
+
+/* dm filter calender */
+
+body .react-calendar {
+  background-color: #282828;
+  border: none;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.react-calendar__tile {
+  font-size: 14px;
+  color: #fff !important;
+  height: 35px !important;
+}
+
+.react-calendar__month-view__weekdays {
+  color: #fff !important;
+  background-color: #191818;
+  padding: 2px 10px;
+  border-radius: 35px !important;
+}
+.react-calendar__month-view__weekdays abbr {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+}
+
+.react-calendar__navigation {
+  height: auto !important;
+  font-size: 14px;
+  margin: 18px 0 !important;
+}
+.react-calendar__navigation button {
+  color: #fff;
+}
+.react-calendar__navigation__arrow {
+  font-size: 30px;
+}
+.react-calendar__navigation__prev-8-button,
+.react-calendar__navigation__next2-button {
+  display: none !important;
+}
+body
+  .react-calendar__navigation__arrow.react-calendar__navigation__prev2-button {
+  display: none !important;
+}
+.react-calendar__month-view__days {
+  padding: 0 10px;
+}
+.react-calendar__navigation__label {
+  font-size: 18px !important;
+}
+.react-calendar__tile.react-calendar__month-view__days__day {
+  border: 1px solid transparent !important;
+  width: 30px !important;
+  max-width: auto !important;
+  height: 30px !important;
+  padding: 0 !important;
+  border-radius: 50px !important;
+  margin-top: 7px !important;
+}
+.react-calendar__tile.react-calendar__month-view__days__day:hover {
+  border: 1px solid red !important;
+  background-color: transparent !important;
+}
+body
+  .react-calendar__tile.react-calendar__month-view__days__day.react-calendar__tile--active {
+  border: 1px solid red !important;
+  background-color: transparent !important;
+}
+
+.react-calendar__tile.react-calendar__tile--now {
+  color: red !important;
+  background-color: transparent !important;
+}
+body .react-calendar__navigation button:enabled:focus,
+body .react-calendar__navigation button[disabled],
+body .react-calendar__tile:enabled:hover,
+body .react-calendar__navigation button:enabled:hover {
+  background-color: transparent !important;
+}
+
+body .react-calendar__month-view__weekdays__weekday {
+  padding: 0 !important;
+}
+
+.react-calendar__navigation__arrow.react-calendar__navigation__prev-button {
+  position: relative;
+  color: transparent !important;
+}
+
+.react-calendar__navigation__arrow.react-calendar__navigation__next-button {
+  position: relative;
+  color: transparent !important;
+}
+.react-calendar__navigation__arrow.react-calendar__navigation__prev-button::before,
+.react-calendar__navigation__arrow.react-calendar__navigation__next-button::before {
+  content: '';
+  background-image: url(../images/downArrow.svg);
+  width: 16px;
+  height: 16px;
+  display: block;
+  background-size: 100% 100%;
+  transform: rotate(-92deg);
+  position: absolute;
+}
+.react-calendar__navigation__arrow.react-calendar__navigation__prev-button::before {
+  transform: rotate(92deg);
+}
+
+.react-calendar__navigation button {
+  min-width: auto !important ;
+}
+
+.react-calendar__month-view__weekdays__weekday abbr {
+  pointer-events: none;
+}
+
+.form-control {
+  height: 41px !important;
+  font-size: 0.9rem !important;
+}
+
+.form-control:focus,
+.custom-select-arrows:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.custom-select-arrows::after {
+  border-color: #fff transparent;
+}
+
+.custom-select-arrows {
+  display: inline-block;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  vertical-align: middle;
+  background: transparent;
+}
+
+#basic-nav-dropdown {
+  color: #1c1b1b;
+}
+
+/* Toggle Switch */
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #5edea8;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: '';
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #5edea8;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px white;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 20px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.dropdown-toggle::after {
+  content: '';
+  display: none;
+}
+
+.dropdown-toggle {
+  position: relative;
+}
+
+.dropdown-toggle:before {
+  position: absolute;
+  top: 8px;
+  right: -9px;
+  content: '';
+  width: 10px;
+  height: 20px;
+  background-image: url(../images/arrowdown.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* .custom-select-arrows option {
+  color: #1c1b1b;
+} */
+
+#basic-nav-dropdown:hover {
+  text-shadow: 0 0 1px black;
+}
+
+@media (max-width: 991px) {
+  .dropdown-toggle:before {
+    top: 10px;
+    left: 229px;
+  }
+  .dropdown-menu.show {
+    line-height: 2.2em;
+    box-shadow: none;
+    min-width: 250px;
+    position: relative !important;
+    border: none !important;
+    transform: none !important;
+    transition: 2s ease;
+  }
+}
+
+.not-allowed-wrapper * {
+  cursor: not-allowed;
+}
+
+#settings_modal > div {
+  height: 100%;
+}
+
+.dm_taskinput_calendar_wrapper {
+  position: relative;
+}
+
+.dm_taskinput_calendar_wrapper .react-calendar {
+  position: absolute;
+  z-index: 1;
+  max-width: 260px;
+  padding: 5px 10px;
+  top: 70px;
+}
+
+.dm_taskinput_calendar_wrapper.dm_optimizeinput_calendar_wrapper
+  .react-calendar {
+  top: 50px;
+  left: 5px;
+}
+
+body .dm_taskinput_calendar_wrapper .react-calendar {
+  background-color: white;
+}
+
+body .dm_taskinput_calendar_wrapper .react-calendar__tile {
+  color: #252525 !important;
+  max-width: 260px;
+}
+
+body .dm_taskinput_calendar_wrapper .react-calendar__navigation button {
+  color: #252525 !important;
+  width: 40px;
+  font-weight: bold;
+}
+
+.react-calendar__navigation__arrow.react-calendar__navigation__prev-button::before,
+.react-calendar__navigation__arrow.react-calendar__navigation__next-button::before {
+  width: 10px;
+}
+
+body .dm_taskinput_calendar_wrapper_right .react-calendar {
+  right: 0;
+}
+
+.whiteTextWrapper * {
+  color: white;
+}
+.swal-modal {
+  background-color: rgba(52, 52, 52, 1);
+  border-radius: 18px;
+}
+
+.btn-success {
+  background-color: rgb(9, 107, 146) !important;
+}
+.btn-danger {
+  background-color: rgb(134, 51, 167) !important;
+}
+.dm_swl_container .dm_swl_popup {
+  border-radius: 10px;
+  width: 420px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.dm_swl_container .swal2-html-container {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: -0.32px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.dm_swl_container .dm_swl_title {
+  font-size: 20px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.55;
+  letter-spacing: -0.44px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.dm_swl_container .dm_swl_closeButton,
+.dm_swl_container .dm_swl_cancelButton {
+  background-color: #656565 !important;
+  color: white !important;
+  border-radius: 10px !important;
+  font-size: 14px !important;
+}
+
+.dm_swl_container .dm_swl_confirmButton {
+  background-color: white !important;
+  color: #141313 !important;
+  font-weight: bold;
+  border-radius: 10px !important;
+  font-size: 14px !important;
+}
+
+.dm_swl_container .dm_swl_actions {
+  justify-content: space-around;
+}
+
+.dm_clone_swl_container .dm_swl_title {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.dm_swl_header {
+  padding: 20px !important;
+  padding-bottom: 0px !important;
+}
+
+.dm_clone_swl_container .dm_swl_header {
+  align-items: flex-start;
+}
+
+.dm_clone_swl_container .dm_swl_content {
+  padding: 0 20px;
+}
+
+.dm_clone_swl_container .dm_swl_content,
+.dm_clone_swl_container .swal2-html-container,
+.dm_clone_swl_container .dm_swl_input {
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.dm_clone_swl_container .swal2-html-container {
+  color: #989797;
+}
+
+.dm_swl_container .dm_swl_input {
+  background-color: #343434;
+  color: white;
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+
+.dm_swl_content {
+  padding: 0 20px;
+}
+
+.dm_swl_actions {
+  background-color: #404040;
+  padding: 10px 0;
+}
+
+.dm_swl_cancelButton {
+  font-weight: bold;
+}
+
+.dm_swl_confirmButton {
+  background-color: white !important;
+  color: #141313 !important;
+  font-weight: bold;
+}
+
+body
+  .dmTaskCalenderWrapper
+  .react-calendar__tile.react-calendar__month-view__days__day.react-calendar__tile--active {
+  color: white !important;
+  background-color: #e04949 !important;
+  border: none !important;
+}
+.dmTaskCalenderWrapper
+  .react-calendar__tile.react-calendar__month-view__days__day:hover {
+  background-color: rgb(194, 194, 194) !important;
+  color: #252525 !important;
+  border: none !important;
+}
+
+.dmTaskCalenderWrapper .react-calendar__tile.react-calendar__tile--now {
+  color: #e04949 !important;
+}
+
+.dmTaskCalenderWrapper
+  .react-calendar__tile.react-calendar__month-view__days__day {
+  font-weight: bold;
+}
+
+.dmTaskCalenderWrapper
+  .react-calendar__tile.react-calendar__month-view__days__day--neighboringMonth {
+  color: #141313;
+  font-weight: normal !important;
+}
+
+.dm_wrapper *::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+.dm_wrapper *::-webkit-scrollbar-thumb {
+  background: #666;
+}
+
+.dmTaskCalenderWrapper
+  .react-calendar__tile.react-calendar__month-view__days__day:disabled {
+  background-color: transparent !important;
+  opacity: 0.5;
+}
+
+.react-tel-input .selected-flag:hover,
+.react-tel-input .selected-flag:focus,
+.react-tel-input .flag-dropdown.open .selected-flag {
+  background-color: #343434 !important;
+  border-radius: 8px !important;
+}
+.react-tel-input .country-list .country:hover {
+  background-color: #3a3a3a !important;
+}
+.react-tel-input .country-list .country.highlight {
+  background-color: #828282 !important;
+}
+
+.react-tel-input .form-control {
+  height: 31px !important;
+}
+.no-selection {
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+}
+.customerTrackingMap .gmnoprint {
+  display: none;
+}
+
+.mapWrap .gmnoprint > div {
+  display: none;
+}
+
+body .fullscreenbtn {
+  background-color: #141313;
+  width: 45px;
+  height: 38px;
+  position: absolute;
+  z-index: 9;
+  top: 0;
+  right: 10px;
+  border: none;
+  opacity: 0.7;
+  display: none;
+}
+
+.fullscreenbtn:hover {
+  opacity: 1;
+}
+
+.fullscreenbtn img {
+  width: 22px;
+  height: 22px;
+  display: none;
+}
+
+.fullscreenbtn .showBtn {
+  display: block;
+}
+
+.dm_wrapper .fullscreenbtn {
+  display: block !important;
+}
+.tooltip-container {
+  font-size: 13px;
+  padding: 7px 15px !important;
+}
+/* organization modal time zone selector  */
+body .select-wrapper .css-yk16xz-control {
+  background-color: transparent !important;
+  border-radius: 8px !important;
+  border: 1px solid rgb(123, 123, 123) !important;
+  font-size: 14px !important;
+}
+.select-wrapper .css-1uccc91-singleValue,
+.select-wrapper .css-b8ldur-Input,
+.select-wrapper .css-1g6gooi {
+  color: #fff;
+  font-size: 14px !important;
+}
+body .select-wrapper .css-1pahdxg-control {
+  background-color: transparent !important;
+  font-size: 14px !important;
+  /* background-color: transparent !important; */
+  box-shadow: none !important;
+  border-color: white !important;
+}
+body .select-wrapper .css-1pahdxg-control:hover {
+  border-color: white !important;
+  font-size: 14px !important;
+}
+.cloneCheck {
+  color: white;
+  margin-bottom: 5px;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  font-size: 13px;
+}
+
+.cloneCheck input {
+  margin-right: 5px;
+}
+.starClass {
+  margin-left: 10px;
+}
+.textAreaStyle_1ixlttz-o_O-inputStyle_1ciyq82-o_O-textArea_1oa2itv:disabled {
+  color: #666666 !important;
+}
+.inputStyle_1ciyq82-o_O-etaInput_1vthopt:disabled {
+  color: #666666 !important;
+}
+#taskNumber {
+  min-width: 14px;
+  text-align: center;
+}
+#taskAuthor {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  max-width: 170px;
+}
+#taskAuthorDriverView {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  max-width: 260px;
+}
+#selectedTooltipTitle {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  max-width: 200px;
+}

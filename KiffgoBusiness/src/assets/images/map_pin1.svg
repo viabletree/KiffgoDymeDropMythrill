@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="40px" viewBox="0 0 29 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>mapPin2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#43C198" offset="0%"></stop>
+            <stop stop-color="#208E5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Sprint-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.2754705,0 C6.40393353,0 0,6.40393353 0,14.2753935 C0,24.0441213 12.7751476,38.3851847 13.3190608,38.9909185 C13.8299466,39.5599295 14.7219181,39.5589286 15.2318801,38.9909185 C15.7757933,38.3851847 28.5509409,24.0441213 28.5509409,14.2753935 C28.5507869,6.40393353 22.1469304,0 14.2754705,0 Z M14.2754705,21.4577427 C10.3151046,21.4577427 7.09319824,18.2357593 7.09319824,14.2753935 C7.09319824,10.3150277 10.3151816,7.09312125 14.2754705,7.09312125 C18.2357593,7.09312125 21.4576657,10.3151046 21.4576657,14.2754705 C21.4576657,18.2358363 18.2357593,21.4577427 14.2754705,21.4577427 Z" id="mapPin2" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>
