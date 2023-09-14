@@ -1,0 +1,23 @@
+{
+  "button_books": ".top-menu > :nth-child(1) > a",
+  "button_specific_book": ":nth-child(1) > .product-item > .picture > a > img",
+  "button_product_suggestions": ".also-purchased-products-grid > :nth-child(2) > .product-item > .picture > a > img",
+  "button_email_friend": ".email-a-friend > .button-2",
+  "button_friend_email": "#FriendEmail",
+  "your-_email": "#YourEmailAddress",
+  "button_submit": "form > .buttons > .button-1",
+  "book_1": ":nth-child(1) > .product-item > .picture > a > img",
+  "book_2": ":nth-child(2) > .product-item > .picture > a > img",
+  "book_3": ":nth-child(6) > .product-item > .picture > a > img",
+  "book_4": ":nth-child(5) > .product-item > .picture > a > img",
+  "apparel_shoes": ".top-menu > :nth-child(4) > a",
+  "apparel_1": ":nth-child(7) > .product-item > .picture > a > img",
+  "apparel_2": ":nth-child(4) > .product-item > .picture > a > img",
+  "apparel_3": ":nth-child(3) > .product-item > .picture > a > img",
+  "apparel_4": ":nth-child(8) > .product-item > .picture > a > img",
+  "book_text_1": ":nth-child(1) > .product-item > .details > .product-title > a",
+  "book_text_2": ":nth-child(2) > .product-item > .details > .product-title > a",
+  "book_heading": "h1",
+  "book_short_description": ".short-description"
+
+}

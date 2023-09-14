@@ -1,0 +1,18 @@
+{
+  "link_books" : ".top-menu > :nth-child(1) > a",
+  "title_bookHeading" :"h1",
+  "title_bookDescription" : ".short-description",
+  "link_book01" : ":nth-child(1) > .product-item > .picture > a > img",
+  "link_book02" : ":nth-child(2) > .product-item > .picture > a > img",
+  "link_book03" : ":nth-child(3) > .product-item > .picture > a > img",
+  "link_book04" : ":nth-child(4) > .product-item > .picture > a > img",
+  "link_book05" : ":nth-child(5) > .product-item > .picture > a > img",
+  "link_book06" : ":nth-child(6) > .product-item > .picture > a > img",
+  "title_book01" : ":nth-child(1) > .product-item > .details > .product-title > a",
+  "title_book06" : ":nth-child(6) > .product-item > .details > .product-title > a",
+  "title_book02" : ":nth-child(2) > .product-item > .details > .product-title > a",
+  "title_book03" : ":nth-child(3) > .product-item > .details > .product-title > a",
+  "title_book04" : ":nth-child(4) > .product-item > .details > .product-title > a",
+  "title_book05" : ":nth-child(5) > .product-item > .details > .product-title > a"
+
+}

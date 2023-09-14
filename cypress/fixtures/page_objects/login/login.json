@@ -1,0 +1,14 @@
+{
+  "link_login": ".ico-login" ,
+  "field_email" : "#Email" ,
+  "field_password" : "#Password" ,
+  "button_Login" : "form > .buttons > .button-1" ,
+  "message_incorrectCredentials" : ".validation-summary-errors" , 
+  "button_PasswordRecover" :"#Email" ,
+  "link_forgetpassword" : ".forgot-password > a",
+  "message_NoCustomerFound" : ".validation-summary-errors > ul > li" , 
+  "checkbox_rememberme" : "#RememberMe" ,
+  "loginuser_email" : ".header-links > ul > :nth-child(1) > .account" ,
+  "button_recover" : "form > .buttons > .button-1"
+} 
+

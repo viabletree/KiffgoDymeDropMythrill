@@ -1,0 +1,7 @@
+{
+  "dropdown_sortBy" : "#products-orderby",
+  "from_NameAtoZ" : "Name: A to Z",
+  "from_NameZToA" : "Name: Z to A",
+  "from_priceLTOH" : "Price: Low to High",
+  "from_priceHToL" : "Price: High to Low"
+}

@@ -1,0 +1,16 @@
+{
+  "link_apparelAndShoes": ".top-menu > :nth-child(4) > a",
+  "link_page2": ".individual-page > a",
+  "link_apparelAndShoesImage01": ":nth-child(1) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage02": ":nth-child(2) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage03": ":nth-child(3) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage04": ":nth-child(4) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage05": ":nth-child(5) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage06": ":nth-child(6) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage07": ":nth-child(7) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage08": ":nth-child(8) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage09": ":nth-child(9) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage10": ":nth-child(10) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage11": ":nth-child(11) > .product-item > .picture > a > img",
+  "link_apparelAndShoesImage12": ":nth-child(12) > .product-item > .picture > a > img"
+}

@@ -1,0 +1,18 @@
+{
+  "headerMenu": ".header-menu",
+  "headerMenu_books": ".top-menu > :nth-child(1) > a",
+  "headerMenu_computers": ".top-menu > :nth-child(2) > a",
+  "pageTitle": "h1",
+  "buttonLogin": ".ico-login",
+  "a_product": ":nth-child(3) > .product-item > .details > .product-title > a",
+
+
+  "menu_category": ".header-menu",
+  "label_categoryBooks": ".top-menu > :nth-child(1) > a",
+  "label_categoryComputer": ".top-menu > :nth-child(2) > a",
+  "label_categoryElectronics": ".top-menu > :nth-child(3) > a",
+  "label_categoryAparrelnShoes": ".top-menu > :nth-child(4) > a",
+  "label_categoryDigitaldownloads": ".top-menu > :nth-child(5) > a",
+  "label_categoryJewelry": ".top-menu > :nth-child(6) > a",
+  "label_categoryGiftCards": ".top-menu > :nth-child(7) > a"
+}

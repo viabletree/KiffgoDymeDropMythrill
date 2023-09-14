@@ -1,0 +1,7 @@
+{
+  "link_addToCartOnPDP": "#add-to-cart-button-13",
+  "display_header": ".content",
+  "displayText_Header": "The product has been added to your shopping cart",
+  "link_addToCart": ".ico-cart > .cart-label",
+  "verify_productNameInCart": ".product-name"
+}

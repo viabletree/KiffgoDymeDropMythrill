@@ -1,0 +1,10 @@
+{
+  "url_website": "https://demowebshop.tricentis.com/",
+  "txt_successMsg" : "The product has been added to your shopping cart",
+  "txt_errorMsg" :"Quantity should be positive",
+  "validVal_Qty": 6,
+  "invalidVal_Qty": -1,
+  "invalidVal_Qty_spaces": " ",
+  "invalidVal_Qty_decimal": 6.6,
+  "availability": "Out of stock"
+}

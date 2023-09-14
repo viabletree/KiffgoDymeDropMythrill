@@ -1,0 +1,17 @@
+{
+
+  "button_register": ".ico-register",
+  "field_firstName": "#FirstName",
+  "field_lastName": "#LastName",
+  "field_email": "#Email",
+  "field_passwordd": "#Password",
+  "field_confirmPassword": "#ConfirmPassword",
+  "button_registers": "#register-button",
+  "button_continue": ".page-body > .buttons > .button-1",
+  "link_website": "https://demowebshop.tricentis.com/",
+  "headText": ".header-menu",
+  "field_emails": "tester123${Math.floor(Math.random() * 10000)}@yopmail.com",
+  "field_passwords": "123456",
+  "field_confirmPasswords": "123456"
+
+}

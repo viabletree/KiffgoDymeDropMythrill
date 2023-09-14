@@ -1,0 +1,11 @@
+{
+  "email_val" : "tester123@yopmail.com" ,
+  "password_val": "123456" , 
+  "wrongPassword_val" : "123" ,
+  "wrongEmail_val" : "tester@yopmail.com" ,
+  "error_message1": "Login was unsuccessful. Please correct the errors and try again.\nThe credentials provided are incorrect\n" ,
+  "error_message2" : "Login was unsuccessful. Please correct the errors and try again.\nNo customer account found" ,
+  "RecoveryEmail" : "zehraali2113@gmail.com" ,
+  "webAppLink" : "https://demowebshop.tricentis.com/"
+} 
+
